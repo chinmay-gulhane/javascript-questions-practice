@@ -1,0 +1,6 @@
+.DS_Store
+**/.DS_Store
+**/*.class
+/Lab_2/JavaApplication1/nbproject/private/
+/Lab_2/nbproject/private/
+/Lab_2/build/
